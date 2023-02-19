@@ -7,3 +7,5 @@ Chatbot met code van Rob van der Willigen.
 Dit is een chatbot waarbij je de chatbot kan groeten. Vervolgens kan je aangeven dat je te laat bent en niet weet wat je moet doen.
 
 Op basis daarvan krijg je een antwoord te zien. 
+
+Hier is nog een link dat het werkt: https://youtu.be/SYgU1rDm7KI 
